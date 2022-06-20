@@ -18,6 +18,9 @@
   color:white;
 }
 .letter {
+  width:30px;
+  height:30px;
+  
   padding:10px;
   margin:10p;
   border:2px solid rgb(255, 255, 255);
