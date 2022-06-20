@@ -1,9 +1,9 @@
 import React from 'react'
-import {useState} from 'react'
-import Data from './Data'
+
+
 import Letter from './Letter'
 function Board(){
-const [board,setBoard]=useState(Data)
+
     return(
         <div className="board">
            <div className="row">
