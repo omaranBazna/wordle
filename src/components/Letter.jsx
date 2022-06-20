@@ -3,7 +3,7 @@ function Letter({AttemptVal,LetterPos}){
     {/*let letter=board[AttemptVal][LetterPos]*/}
     return (
         <div className="letter">
-           {letter}
+           {/*letter*/}
         </div>
     )
 }
