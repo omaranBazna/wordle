@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+import Board from './components/Board'
+import Keyboard from './components/Keyboard'
 import './App.css';
 
 function App() {
@@ -7,6 +8,9 @@ function App() {
     <nav>
      <h1> لعبة الكلمات</h1>
       </nav>
+      <Board />
+      <Keyboard />
+
     </div>
   );
 }
