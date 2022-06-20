@@ -1,5 +1,6 @@
 import Board from './components/Board'
 import Keyboard from './components/Keyboard'
+import Test from './components/Test'
 import './App.css';
 
 function App() {
@@ -9,8 +10,7 @@ function App() {
      <h1> لعبة الكلمات</h1>
       </nav>
       <Board />
-      <Keyboard />
-
+       <Keyboard />
     </div>
   );
 }
